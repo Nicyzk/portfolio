@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e7052c53.chunk.css",
-    "main.js": "/portfolio/static/js/main.b7e4b0a9.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b7e4b0a9.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.3b12e12f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3b12e12f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.6bf37201.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.6bf37201.js.map",
     "static/js/2.7a754ef6.chunk.js": "/portfolio/static/js/2.7a754ef6.chunk.js",
@@ -13,7 +13,7 @@
     "static/css/main.e7052c53.chunk.css.map": "/portfolio/static/css/main.e7052c53.chunk.css.map",
     "static/js/2.7a754ef6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.7a754ef6.chunk.js.LICENSE.txt",
     "static/media/e-commerce-website.fa696be1.jpg": "/portfolio/static/media/e-commerce-website.fa696be1.jpg",
-    "static/media/nicholas_yap_resume.02634a1d.pdf": "/portfolio/static/media/nicholas_yap_resume.02634a1d.pdf",
+    "static/media/nicholas_yap_resume.968f123c.pdf": "/portfolio/static/media/nicholas_yap_resume.968f123c.pdf",
     "static/media/ntu-logo.20458d9f.png": "/portfolio/static/media/ntu-logo.20458d9f.png",
     "static/media/profile-pic.3a96c376.jpg": "/portfolio/static/media/profile-pic.3a96c376.jpg",
     "static/media/stocksrepo.com.3da33f93.jpg": "/portfolio/static/media/stocksrepo.com.3da33f93.jpg",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.6bf37201.js",
     "static/js/2.7a754ef6.chunk.js",
     "static/css/main.e7052c53.chunk.css",
-    "static/js/main.b7e4b0a9.chunk.js"
+    "static/js/main.3b12e12f.chunk.js"
   ]
 }
