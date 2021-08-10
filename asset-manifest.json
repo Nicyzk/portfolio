@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.450b8b95.chunk.css",
-    "main.js": "/portfolio/static/js/main.d9c58bdd.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d9c58bdd.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.aa3894a2.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.aa3894a2.js.map",
-    "static/js/2.86afbf43.chunk.js": "/portfolio/static/js/2.86afbf43.chunk.js",
-    "static/js/2.86afbf43.chunk.js.map": "/portfolio/static/js/2.86afbf43.chunk.js.map",
-    "static/js/3.5772ba83.chunk.js": "/portfolio/static/js/3.5772ba83.chunk.js",
-    "static/js/3.5772ba83.chunk.js.map": "/portfolio/static/js/3.5772ba83.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.e7052c53.chunk.css",
+    "main.js": "/portfolio/static/js/main.b7e4b0a9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b7e4b0a9.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.6bf37201.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.6bf37201.js.map",
+    "static/js/2.7a754ef6.chunk.js": "/portfolio/static/js/2.7a754ef6.chunk.js",
+    "static/js/2.7a754ef6.chunk.js.map": "/portfolio/static/js/2.7a754ef6.chunk.js.map",
+    "static/js/3.103a88ab.chunk.js": "/portfolio/static/js/3.103a88ab.chunk.js",
+    "static/js/3.103a88ab.chunk.js.map": "/portfolio/static/js/3.103a88ab.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.450b8b95.chunk.css.map": "/portfolio/static/css/main.450b8b95.chunk.css.map",
-    "static/js/2.86afbf43.chunk.js.LICENSE.txt": "/portfolio/static/js/2.86afbf43.chunk.js.LICENSE.txt",
-    "static/media/jeffreyxiao.151f919b.jpg": "/portfolio/static/media/jeffreyxiao.151f919b.jpg"
+    "static/css/main.e7052c53.chunk.css.map": "/portfolio/static/css/main.e7052c53.chunk.css.map",
+    "static/js/2.7a754ef6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.7a754ef6.chunk.js.LICENSE.txt",
+    "static/media/e-commerce-website.fa696be1.jpg": "/portfolio/static/media/e-commerce-website.fa696be1.jpg",
+    "static/media/nicholas_yap_resume.02634a1d.pdf": "/portfolio/static/media/nicholas_yap_resume.02634a1d.pdf",
+    "static/media/ntu-logo.20458d9f.png": "/portfolio/static/media/ntu-logo.20458d9f.png",
+    "static/media/profile-pic.3a96c376.jpg": "/portfolio/static/media/profile-pic.3a96c376.jpg",
+    "static/media/stocksrepo.com.3da33f93.jpg": "/portfolio/static/media/stocksrepo.com.3da33f93.jpg",
+    "static/media/sudoku-solver.00d3222f.jpg": "/portfolio/static/media/sudoku-solver.00d3222f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa3894a2.js",
-    "static/js/2.86afbf43.chunk.js",
-    "static/css/main.450b8b95.chunk.css",
-    "static/js/main.d9c58bdd.chunk.js"
+    "static/js/runtime-main.6bf37201.js",
+    "static/js/2.7a754ef6.chunk.js",
+    "static/css/main.e7052c53.chunk.css",
+    "static/js/main.b7e4b0a9.chunk.js"
   ]
 }
