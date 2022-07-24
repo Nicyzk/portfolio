@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e7052c53.chunk.css",
-    "main.js": "/portfolio/static/js/main.14643564.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.14643564.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.19280b35.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.19280b35.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.6bf37201.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.6bf37201.js.map",
     "static/js/2.7a754ef6.chunk.js": "/portfolio/static/js/2.7a754ef6.chunk.js",
@@ -13,9 +13,11 @@
     "static/css/main.e7052c53.chunk.css.map": "/portfolio/static/css/main.e7052c53.chunk.css.map",
     "static/js/2.7a754ef6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.7a754ef6.chunk.js.LICENSE.txt",
     "static/media/e-commerce-website.fa696be1.jpg": "/portfolio/static/media/e-commerce-website.fa696be1.jpg",
-    "static/media/nicholas_yap_resume.968f123c.pdf": "/portfolio/static/media/nicholas_yap_resume.968f123c.pdf",
+    "static/media/nicholas_yap_resume_1.5d33f837.pdf": "/portfolio/static/media/nicholas_yap_resume_1.5d33f837.pdf",
     "static/media/ntu-logo.20458d9f.png": "/portfolio/static/media/ntu-logo.20458d9f.png",
-    "static/media/profile-pic.b066ec63.jpg": "/portfolio/static/media/profile-pic.b066ec63.jpg",
+    "static/media/profile-pic.3a96c376.jpg": "/portfolio/static/media/profile-pic.3a96c376.jpg",
+    "static/media/rsi-backtester.76c9e13c.jpg": "/portfolio/static/media/rsi-backtester.76c9e13c.jpg",
+    "static/media/sginnovate-logo.30a546f4.png": "/portfolio/static/media/sginnovate-logo.30a546f4.png",
     "static/media/stocksrepo.com.3da33f93.jpg": "/portfolio/static/media/stocksrepo.com.3da33f93.jpg",
     "static/media/sudoku-solver.00d3222f.jpg": "/portfolio/static/media/sudoku-solver.00d3222f.jpg"
   },
@@ -23,6 +25,6 @@
     "static/js/runtime-main.6bf37201.js",
     "static/js/2.7a754ef6.chunk.js",
     "static/css/main.e7052c53.chunk.css",
-    "static/js/main.14643564.chunk.js"
+    "static/js/main.19280b35.chunk.js"
   ]
 }
